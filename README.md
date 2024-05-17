@@ -5,6 +5,6 @@ Different emotion labels represent following emotions:
 #1-sad
 #2-angry
 #3-surprise
-#4-fear
+#4-fear, 
 I have used pretrained bert-based-multilingual-cased tokenizer and embedding. 
 Dataset used for training the model is also uloaded.
